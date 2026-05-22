@@ -46,7 +46,7 @@
 | 📈 **Progression** | Earn XP, level up, unlock achievements |
 | 🤖 **AI Opponents** | Practice against computer opponents |
 | 📊 **Statistics** | Track your wins, losses, ELO rating, and match history |
-| 🖼️ **Profile Customization** | Upload profile pictures via Cloudinary |
+|  🖼️ **Profile Customization** | Upload profile pictures via Cloudinary |
 
 ---
 
