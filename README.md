@@ -40,7 +40,7 @@
 |  Feature | Description |
 |---------|-------------|
 | 🎮 **Multiple Games** | Tic-Tac-Toe, Memory Game, Dots & Boxes, Snakes & Ladders |
-|  ⚡ **Real-Time Gaming** | Instant game updates powered by Socket.IO |
+| ⚡ **Real-Time Gaming** | Instant game updates powered by Socket.IO |
 | 🎯 **Matchmaking** | ELO-based player matching system |
 | 👥 **Social System** | Add friends, chat in real-time, send notifications |
 | 📈 **Progression** | Earn XP, level up, unlock achievements |
