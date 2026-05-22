@@ -18,7 +18,7 @@
 
 ## 📖 Table of Contents
 
-- [Features](#-features)
+-   [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Screenshots](#-screenshots)
 - [Prerequisites](#-prerequisites)
