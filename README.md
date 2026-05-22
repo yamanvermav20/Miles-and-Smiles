@@ -37,7 +37,7 @@
 
 ## ✨ Features
 
-| Feature | Description |
+|  Feature | Description |
 |---------|-------------|
 | 🎮 **Multiple Games** | Tic-Tac-Toe, Memory Game, Dots & Boxes, Snakes & Ladders |
 | ⚡ **Real-Time Gaming** | Instant game updates powered by Socket.IO |
