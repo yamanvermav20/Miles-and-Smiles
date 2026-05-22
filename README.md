@@ -23,7 +23,7 @@
 - [Screenshots](#-screenshots)
 - [Prerequisites](#-prerequisites)
 -  [Installation](#-installation)
-  -   [Option 1: Docker (Recommended)](#option-1-docker-recommended)
+  - [Option 1: Docker (Recommended)](#option-1-docker-recommended)
   - [Option 2: Manual Setup](#option-2-manual-setup)
 - [Environment Variables](#-environment-variables)
 - [Usage](#-usage)
