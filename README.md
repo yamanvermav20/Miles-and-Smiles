@@ -52,7 +52,7 @@
 
 ## 🛠 Tech Stack
 
-### Backend
+###  Backend
 - **Runtime:** Node.js with Express.js
 - **Database:** MongoDB with Mongoose ODM
 - **Cache:** Redis for sessions & real-time data
